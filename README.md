@@ -19,7 +19,7 @@
 
 ## Other
 
-*  https://asecuritysite.com/encryption
+* https://asecuritysite.com/encryption
 * [48 Dirty Little Secrets Cryptographers Don’t Want You To Know](https://www.youtube.com/watch?v=iZa_XKpj9X4&list=RDCMUCJ6q9Ie29ajGqKApbLqfBOg&index=31)
 
 ## Zero-knowledge
@@ -27,8 +27,11 @@
 ### Courses
 
 * https://zk-learning.org/
+* https://www.youtube.com/playlist?list=PL8Vt-7cSFnw29cLUVqAIuMlg1QJ-szV0K
+* https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH
 
 * https://zkiap.com/
+* https://learn.0xparc.org/
 
 * https://zkhack.dev/whiteboard/
 * https://github.com/tamirhemo/zk_hack_puzzles
@@ -44,3 +47,4 @@
 * https://zkresear.ch/
 * https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519
 
+https://ingonyama-zk.github.io/ingopedia/communityguide.html
